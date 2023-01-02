@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="banner.png" alt="banner">
+<img src="WhatsApp Image 2023-01-02 at 21.27.00.jpeg" alt="banner">
 <h1 align="center">Hi 👋, I'm Pulkit Bhardwaj</h1>
 <h3 align="center">I am Mobile App developer from India</h3>
 
