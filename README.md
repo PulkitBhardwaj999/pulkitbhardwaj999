@@ -2,7 +2,6 @@
 
 
 
-<img src="https://github.com/YourUsername/YourRepoName/blob/main/assets/banner.jpeg?raw=true" alt="Pulkit Bhardwaj banner">
 
 <h1 align="center">Hi 👋, I'm Pulkit Bhardwaj</h1>
 <h3 align="center">Data Analyst | Python Developer | Dashboard Enthusiast</h3>
